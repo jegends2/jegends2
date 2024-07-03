@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currentenly working on stella_n2 / clibo_mini
+proablly gonna get different work today 07/04
+
 <!--
 **jegends2/jegends2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
