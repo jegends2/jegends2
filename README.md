@@ -3,6 +3,8 @@
 I'm currentenly working on stella_n2 / clibo_mini
 proablly gonna get different work today 07/04
 
+https://app.gitbook.com/o/AA6n7oaRpgN6rOmw2OnH/home
+
 <!--
 **jegends2/jegends2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
