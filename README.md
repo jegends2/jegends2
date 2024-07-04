@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm currentenly working on stella_n2 / clibo_mini
-proablly gonna get different work today 07/04
+I'm currentenly working on ydlidar-x4 installation and working and understanding ros2 on ubuntu 22.04 also gonna try ros1 at the same time cause i heard they both work for 22.04 let's go
 
 https://app.gitbook.com/o/AA6n7oaRpgN6rOmw2OnH/home
 
