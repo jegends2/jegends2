@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-I'm currentenly working on ydlidar-x4 installation and working and understanding ros2 on ubuntu 22.04 also gonna try ros1 at the same time cause i heard they both work for 22.04 let's go
+- 🔭 I’m currently working on ... clibo (automatic initial pose setup (without using amcl)) / while navigation json points coordinates skipping current coordinate if it's stuck in sudden obstacles
 
 https://app.gitbook.com/o/AA6n7oaRpgN6rOmw2OnH/home
 
@@ -9,7 +8,7 @@ https://app.gitbook.com/o/AA6n7oaRpgN6rOmw2OnH/home
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
